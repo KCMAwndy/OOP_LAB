@@ -1,3 +1,5 @@
+package Week1;
+
 public class Pro1_64010989 {
     public static void main(String[] args) {
         long birthTotal = (5*365*24*60*60)/7;

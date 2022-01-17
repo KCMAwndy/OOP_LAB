@@ -1,3 +1,5 @@
+package Week1;
+
 //Sum the digit in an integer
 import java.util.Scanner;
 public class Pro3_64010989 {

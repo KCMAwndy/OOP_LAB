@@ -1,3 +1,5 @@
+package Week1;
+
 //Linear equaion
 public class Pro2_64010989 {
     public static void main(String[] args) {

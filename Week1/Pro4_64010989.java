@@ -1,3 +1,5 @@
+package Week1;
+
 //Health application
 import java.util.Scanner;
 
